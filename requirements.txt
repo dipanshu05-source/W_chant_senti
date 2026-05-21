@@ -6,7 +6,7 @@ seaborn
 wordcloud
 emoji
 urlextract
-scikit-learn
+scikit-learn==1.6.1
 pillow
 regex
 streamlit
