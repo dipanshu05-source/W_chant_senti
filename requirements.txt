@@ -13,3 +13,4 @@ altair==6.0.0
 openpyxl==3.1.5
 requests==2.33.1
 tqdm==4.67.3
+emoji==2.15.0
